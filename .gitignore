@@ -2,3 +2,4 @@ venv
 *_pycache_*
 staticfiles
 .env
+deploy_setup.sh
